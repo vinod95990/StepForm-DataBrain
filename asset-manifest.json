@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StepForm-DataBrain/static/css/main.a7afdf62.css",
+    "main.js": "/StepForm-DataBrain/static/js/main.b747e238.js",
+    "static/media/finish.gif": "/StepForm-DataBrain/static/media/finish.eaccb532e8cfec555148.gif",
+    "static/media/card3.jpg": "/StepForm-DataBrain/static/media/card3.b239feb4c9819971c254.jpg",
+    "index.html": "/StepForm-DataBrain/index.html",
+    "main.a7afdf62.css.map": "/StepForm-DataBrain/static/css/main.a7afdf62.css.map",
+    "main.b747e238.js.map": "/StepForm-DataBrain/static/js/main.b747e238.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7afdf62.css",
+    "static/js/main.b747e238.js"
+  ]
+}
